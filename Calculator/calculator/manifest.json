@@ -17,7 +17,10 @@
 	"sandbox": {
 		"pages": ["calculator.html"]
 	},
-	
+	"icons": { "16": "calculator.png",
+		"48": "calculator.png",
+		"128": "calculator.png" },
+
 	"content_scripts": 
 	[ 
 		{	
